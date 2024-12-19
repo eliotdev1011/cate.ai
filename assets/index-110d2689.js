@@ -21061,7 +21061,7 @@ const fC = "/assets/chart-966de909.png",
             "flex justify-center mt-6 px-4 text-xs md:text-lg font-[titan]",
           children: [
             y.jsx("a", {
-              href: "https://app.cndl.ai",
+              href: "https://app-cate-ai-fi.vercel.app/",
               children: y.jsxs("button", {
                 className:
                   "bg-black text-white border-2 border-[#00A651] hover:bg-[#04110F] rounded-lg px-4 py-2 mx-2 fadeInUp",
@@ -24950,7 +24950,7 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                       children: y.jsx(ln, {
                         to: "https://app.cndl.ai",
                         className: a,
-                        onClick: () => o("https://app.cndl.ai"),
+                        onClick: () => o("https://app-cate-ai-fi.vercel.app/"),
                         children: "LAUNCH DAPP",
                       }),
                     }),
@@ -25012,7 +25012,7 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                   children: y.jsx(ln, {
                     to: "https://app.cndl.ai",
                     className: a,
-                    onClick: () => o("https://app.cndl.ai"),
+                    onClick: () => o("https://app-cate-ai-fi.vercel.app/"),
                     children: "Launch dApp",
                   }),
                 }),
@@ -25035,7 +25035,7 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
               style: { flex: 1, justifyContent: "flex-end" },
               children: [
                 y.jsx("a", {
-                  href: "https://twitter.com/",
+                  href: "https://twitter.com/CATTEFI_AI",
                   className: "text-white hover:text-green-500",
                   children: y.jsx(M, {
                     icon: qi,
@@ -25044,7 +25044,7 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                   }),
                 }),
                 y.jsx("a", {
-                  href: "https://t.me/",
+                  href: "https://t.me/cate_ai_channel",
                   className: "text-white hover:text-green-500",
                   children: y.jsx(M, {
                     icon: Tl,
@@ -25949,7 +25949,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
               className: "flex flex-col items-center space-y-4 mb-6 md:mb-0",
               children: [
                 y.jsx("a", {
-                  href: "https://t.me/",
+                  href: "https://t.me/cate_ai_channel",
                   target: "_blank",
                   rel: "noreferrer",
                   children: y.jsxs("button", {
@@ -25965,7 +25965,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                   }),
                 }),
                 y.jsx("a", {
-                  href: "https://twitter.com/",
+                  href: "https://twitter.com/CATTEFI_AI",
                   target: "_blank",
                   rel: "noreferrer",
                   children: y.jsxs("button", {
@@ -26035,7 +26035,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
             className: "flex flex-col items-center space-y-4 mb-6 md:mb-0",
             children: [
               y.jsx("a", {
-                href: "https://t.me/",
+                href: "https://t.me/cate_ai_channel",
                 target: "_blank",
                 rel: "noreferrer",
                 children: y.jsxs("button", {
@@ -26051,7 +26051,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                 }),
               }),
               y.jsx("a", {
-                href: "https://twitter.com/",
+                href: "https://twitter.com/CATTEFI_AI",
                 target: "_blank",
                 rel: "noreferrer",
                 children: y.jsxs("button", {
@@ -26278,12 +26278,12 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
             className: "flex justify-center md:space-x-16 space-x-4 text-m",
             children: [
               y.jsx("a", {
-                href: "https://app.cndl.ai",
+                href: "https://app-cate-ai-fi.vercel.app/",
                 className: "hover:text-gray-300  md:text-base text-xs",
                 children: "Privacy Policy",
               }),
               y.jsx("a", {
-                href: "https://app.cndl.ai",
+                href: "https://app-cate-ai-fi.vercel.app/",
                 className: "hover:text-gray-300  md:text-base text-xs",
                 children: "Terms of Service",
               }),
