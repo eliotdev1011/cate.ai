@@ -21061,7 +21061,7 @@ const fC = "/assets/chart-966de909.png",
             "flex justify-center mt-6 px-4 text-xs md:text-lg font-[titan]",
           children: [
             y.jsx("a", {
-              href: "https://app-cate-ai-fi.vercel.app/",
+              href: "https://app.cateai.xyz/",
               children: y.jsxs("button", {
                 className:
                   "bg-black text-white border-2 border-[#00A651] hover:bg-[#04110F] rounded-lg px-4 py-2 mx-2 fadeInUp",
@@ -21073,22 +21073,6 @@ const fC = "/assets/chart-966de909.png",
                     style: { height: "1em", verticalAlign: "middle" },
                   }),
                   "Get Started",
-                ],
-              }),
-            }),
-            y.jsx("a", {
-              href: "/about",
-              children: y.jsxs("button", {
-                className:
-                  "bg-[#04110F] text-white border-2 border-[#00A651] hover:border-white hover:bg-black rounded-lg px-4 py-2 mx-2 fadeInUp",
-                children: [
-                  y.jsx("img", {
-                    src: pC,
-                    alt: "Book Icon",
-                    className: "inline mr-2",
-                    style: { height: "1em", verticalAlign: "middle" },
-                  }),
-                  "Learn More",
                 ],
               }),
             }),
@@ -24950,7 +24934,7 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                       children: y.jsx(ln, {
                         to: "https://app.cndl.ai",
                         className: a,
-                        onClick: () => o("https://app-cate-ai-fi.vercel.app/"),
+                        onClick: () => o("https://app.cateai.xyz/"),
                         children: "LAUNCH DAPP",
                       }),
                     }),
@@ -25012,7 +24996,7 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                   children: y.jsx(ln, {
                     to: "https://app.cndl.ai",
                     className: a,
-                    onClick: () => o("https://app-cate-ai-fi.vercel.app/"),
+                    onClick: () => o("https://app.cateai.xyz/"),
                     children: "Launch dApp",
                   }),
                 }),
@@ -26278,12 +26262,12 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
             className: "flex justify-center md:space-x-16 space-x-4 text-m",
             children: [
               y.jsx("a", {
-                href: "https://app-cate-ai-fi.vercel.app/",
+                href: "https://app.cateai.xyz/",
                 className: "hover:text-gray-300  md:text-base text-xs",
                 children: "Privacy Policy",
               }),
               y.jsx("a", {
-                href: "https://app-cate-ai-fi.vercel.app/",
+                href: "https://app.cateai.xyz/",
                 className: "hover:text-gray-300  md:text-base text-xs",
                 children: "Terms of Service",
               }),
