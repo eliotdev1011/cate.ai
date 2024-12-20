@@ -24984,12 +24984,6 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                   onClick: () => o("/"),
                   children: "Home",
                 }),
-                y.jsx(ln, {
-                  to: "/about",
-                  className: a,
-                  onClick: () => o("/about"),
-                  children: "About",
-                }),
                 y.jsx("span", {
                   className:
                     "text-white text-lg bg-[#04110F] bg-opacity-100 p-1 rounded-lg px-4 border-2 border-[#00A651] hover:border-white",
@@ -24999,12 +24993,6 @@ const gk = "/assets/cndlbanner-9bf6f836.png",
                     onClick: () => o("https://app.cateai.xyz/"),
                     children: "Launch dApp",
                   }),
-                }),
-                y.jsx(ln, {
-                  to: "/team",
-                  className: a,
-                  onClick: () => o("/team"),
-                  children: "Team",
                 }),
                 y.jsx(ln, {
                   to: "/docs",
