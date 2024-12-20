@@ -25666,7 +25666,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                         }),
                         y.jsx("h3", {
                           className: "text-xl mb-2",
-                          children: "Buy / Sell Tax 5%",
+                          children: "Buy / Sell Tax 0%",
                         }),
                         y.jsx("p", {
                           className: "font-[light]",
@@ -25702,7 +25702,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                     "grid grid-cols-2 gap-2 md:grid-cols-4 md:justify-center mt-6 px-4 text-xs md:text-lg mb-6",
                   children: [
                     y.jsx("a", {
-                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0xbeda23eee41163f686ca875f0974e789362fded5?t=1715101015345",
+                      href: "https://www.dextools.io/app/en/ether/pool-explorer/0x11111111111111111111111111111111111111",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: y.jsxs("button", {
@@ -25744,13 +25744,13 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                       }),
                     }),
                     y.jsx("a", {
-                      href: "https://www.team.finance/view-coin/0x00000000000000000000000000000000000000?name=CandleAI&symbol=CNDL&chainid=0x1",
+                      href: "https://etherscan.io/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: y.jsx("button", {
                         className:
                           "bg-green-600 text-white border-2 border-green-600 hover:border-white hover:bg-black rounded-lg px-4 py-2 transition duration-300 ease-in-out w-full",
-                        children: "LP Lock",
+                        children: "Burnt Tx",
                       }),
                     }),
                   ],
@@ -25810,7 +25810,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                   children: [
                     y.jsx("h3", {
                       className: "text-3xl text-[#00A651] ",
-                      children: "Q2 2024",
+                      children: "Q4 2024",
                     }),
                     y.jsxs("p", {
                       className:
@@ -25829,7 +25829,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                   children: [
                     y.jsx("h3", {
                       className: "text-3xl opacity-70",
-                      children: "Q3 2025",
+                      children: "Q1 2025",
                     }),
                     y.jsxs("p", {
                       className:
@@ -25848,7 +25848,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                   children: [
                     y.jsx("h3", {
                       className: "text-3xl opacity-70",
-                      children: "Q4 2025",
+                      children: "Q2 2025",
                     }),
                     y.jsxs("p", {
                       className:
@@ -25867,7 +25867,7 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
                   children: [
                     y.jsx("h3", {
                       className: "text-3xl opacity-70",
-                      children: "Q1 2025",
+                      children: "Q3 2025",
                     }),
                     y.jsxs("p", {
                       className:
@@ -26261,16 +26261,6 @@ const $k = "/assets/cndlpattern-cf0399bc.png",
           y.jsxs("div", {
             className: "flex justify-center md:space-x-16 space-x-4 text-m",
             children: [
-              y.jsx("a", {
-                href: "https://app.cateai.xyz/",
-                className: "hover:text-gray-300  md:text-base text-xs",
-                children: "Privacy Policy",
-              }),
-              y.jsx("a", {
-                href: "https://app.cateai.xyz/",
-                className: "hover:text-gray-300  md:text-base text-xs",
-                children: "Terms of Service",
-              }),
             ],
           }),
           y.jsxs("div", {
@@ -26434,7 +26424,7 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
                 "text-xl font-bold mb-4 mt-5 text-[#00A945] font-[titan]",
               children: [
                 y.jsx(M, { icon: Sw, className: "text-green-500 mr-2" }),
-                "The Candle Trading Algorithm",
+                "The CATE Algorithm",
               ],
             }),
             y.jsx("p", {
@@ -26446,10 +26436,10 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
               className: "font-[titan]",
               children: [
                 y.jsx("br", {}),
-                "This is why we are taking it upon us to put out the Candle Trading dApp in steps, which is the interface to utilize the ",
+                "This is why we are taking it upon us to put out the CATE dApp in steps, which is the interface to utilize the ",
                 y.jsx("span", {
                   className: "font-bold text-[#00A945]",
-                  children: "Candle Trading Algorithm",
+                  children: "CATE Algorithm",
                 }),
                 ", our unique in-house backend systems software that has been built by veteran Web3 developers with extensive experience in rapid blockchain-interactive systems like data polling and collection, websocket-based behaviours, and chart data algorithmic handling, coupled with AI embeddings for automated decision making.",
               ],
@@ -26861,7 +26851,7 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
                   onClick: () => o(i),
                   children: [
                     y.jsx(M, { icon: jc, className: "mr-1 text-green-500" }),
-                    "Candle Trading Algorithm",
+                    "CATE Algorithm",
                   ],
                 }),
                 y.jsxs("div", {
@@ -26869,7 +26859,7 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
                   onClick: () => o(a),
                   children: [
                     y.jsx(M, { icon: jc, className: "mr-1 text-green-500" }),
-                    "Candle Trading dApp",
+                    "CATE dApp",
                   ],
                 }),
                 y.jsx("li", {
@@ -27101,7 +27091,7 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
                 y.jsx("h3", {
                   className: "text-lg mt-0 font-[titan] mt-2 opacity-70",
                   ref: i,
-                  children: "Candle Trading Algorithm",
+                  children: "CATE Algorithm",
                 }),
                 y.jsx("p", {
                   className: "mt-2 font-[titan] mb-8",
@@ -27111,7 +27101,7 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
                 y.jsx("p", {
                   className: "mt-2 font-[titan] mb-8",
                   children:
-                    "On a technical level of understanding, the algorithm is deployed in multiple clustered backends to serve millions of network requests in a day and to scale according to demand. As such it is multipliable, modular and scalable. In programs, complex logical parts that involve either AI-enhanced or decision tree-like decision making with calculated outputs are called algorithms due to their ability to take in factors. Much more complex than a traditional algorithm however and being a mix of many different types of calculations receiving factors that may vary in their type, presentation form or purpose, the Candle Trading Algorithm is best understood as a comprehensive system of algorithms all working together to produce expected outputs at each moments of the trades.",
+                    "On a technical level of understanding, the algorithm is deployed in multiple clustered backends to serve millions of network requests in a day and to scale according to demand. As such it is multipliable, modular and scalable. In programs, complex logical parts that involve either AI-enhanced or decision tree-like decision making with calculated outputs are called algorithms due to their ability to take in factors. Much more complex than a traditional algorithm however and being a mix of many different types of calculations receiving factors that may vary in their type, presentation form or purpose, the CATE Algorithm is best understood as a comprehensive system of algorithms all working together to produce expected outputs at each moments of the trades.",
                 }),
                 y.jsx("p", {
                   className: "mt-2 font-[titan] mb-8",
@@ -27121,12 +27111,12 @@ const rN = "/assets/Comp_3-8b97a8b4.gif",
                 y.jsx("h3", {
                   className: "text-lg mt-0 font-[titan] mt-2 opacity-70",
                   ref: a,
-                  children: "Candle Trading dApp",
+                  children: "CATE dApp",
                 }),
                 y.jsx("p", {
                   className: "mt-2 font-[titan]",
                   children:
-                    "The dApp serves as the user interface for interacting with the Candle Trading Algorithm. It provides a user-friendly platform for traders to manage their portfolios, set trading parameters, and view real-time analytics. The dApp ensures that users retain full control over their trading decisions and assets. It utilizes the main principles of decentralized applications - wallets as users, smart contracts as business logic, and decentralized storage protocols to provide a secure and transparent trading experience. All interactions are done with signaturized transactions on the blockchain, and if there are vlaued assets involved it is all based on Ethereum or tokens paired with Ethereum.",
+                    "The dApp serves as the user interface for interacting with the CATE Algorithm. It provides a user-friendly platform for traders to manage their portfolios, set trading parameters, and view real-time analytics. The dApp ensures that users retain full control over their trading decisions and assets. It utilizes the main principles of decentralized applications - wallets as users, smart contracts as business logic, and decentralized storage protocols to provide a secure and transparent trading experience. All interactions are done with signaturized transactions on the blockchain, and if there are vlaued assets involved it is all based on Ethereum or tokens paired with Ethereum.",
                 }),
                 y.jsx("p", {
                   className: "mt-2 font-[titan]",
